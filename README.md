@@ -1,4 +1,4 @@
-# notes_app1
+# TO-DO app
 A flutter proyect to learn the lenguage
 
 [APK](https://drive.google.com/file/d/1xz1kOIffHk0Gl2JoJ25xAT3fdEoPlUIy/view?usp=share_link)
